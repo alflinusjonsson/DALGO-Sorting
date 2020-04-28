@@ -1,2 +1,2 @@
-# Dalgo-PekareOchSortering
+# Dalgo-Sorting
 Laboration 1. 
